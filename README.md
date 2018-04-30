@@ -43,7 +43,7 @@ Display business hours for the chosen day. For Example Assume that the business 
 
 
  
-BYOD Practical 1
+BYOD Practical 2
 
 3. Create an application for Personal Phone Directory that contains room for first names and phone numbers for N(Value of N will be asked from user) people. Assign names and phone numbers for the first 10 people. 
 Prompt the user for a name, and if the name is found in the list, display the corresponding phone number.
@@ -83,7 +83,7 @@ the number of the student whose data is being entered and the course number—fo
 Verify that the professor enters only A, B, C, D, or F for the grade value for each course. 
 
  
-BYOD Practical 1
+BYOD Practical 3
 
 5. Write an application of Retirement Goal that prompts a user for the number of years the user has until retirement and the amount of money the user can save annually.
 If the user enters 0 or a negative number for either value, reprompt the user until valid entries are made. Display the amount of money the user will have if the user earns 5% interest on the balance every year. 
@@ -122,7 +122,7 @@ If the user enters 0 or a negative number for either value, reprompt the user un
 Display the populations for the two countries every year until the population of Mexico exceeds that of the United States, and display the number of years it took. 
 
  
-BYOD Practical1
+BYOD Practical 4
 
 7. Write an application that displays every perfect number from 1 through 1,000. A perfect number is one that equals the sum of all the numbers that divide evenly into it.
 For example, 6 is perfect because 1, 2, and 3 divide evenly into it, and their sum is 6;however, 12 is not a perfect number because 1, 2, 3, 4, and 6 divide evenly into it, and their sum is greater than 12. 
